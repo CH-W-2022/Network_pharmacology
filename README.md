@@ -1,2 +1,5 @@
 # Network_pharmacology
-Network pharmacology analysis
+
+Network pharmacology analysis.
+File size > 25Mb is in the release section.
+
